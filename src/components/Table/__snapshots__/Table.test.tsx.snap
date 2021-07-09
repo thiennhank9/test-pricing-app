@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Table render table 1`] = `
+<table>
+  <thead>
+    <tr>
+      <th>
+        1
+      </th>
+      <th>
+        2
+      </th>
+      <th>
+        3
+      </th>
+    </tr>
+  </thead>
+  <tbody
+    onMouseOut={[MockFunction]}
+  >
+    <tr>
+      <th>
+        1
+      </th>
+      <td>
+        1
+      </td>
+      <td>
+        2
+      </td>
+    </tr>
+    <tr>
+      <th>
+        2
+      </th>
+      <td>
+        1
+      </td>
+      <td>
+        2
+      </td>
+    </tr>
+    <tr>
+      <th>
+        3
+      </th>
+      <td>
+        1
+      </td>
+      <td>
+        2
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;

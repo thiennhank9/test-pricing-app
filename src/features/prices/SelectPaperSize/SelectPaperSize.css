@@ -1,0 +1,9 @@
+.select-paper-size {
+  width: 150px;
+}
+
+.row-button-apply {
+  margin-top: 10px;
+  display: flex;
+  justify-content: flex-end;
+}

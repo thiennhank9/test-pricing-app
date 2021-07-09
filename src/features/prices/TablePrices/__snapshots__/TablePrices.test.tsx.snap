@@ -1,0 +1,754 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TablePrices render table prices with correct paper size 1`] = `
+<div
+  className="table-prices"
+>
+  <h3>
+    Price table
+  </h3>
+  <p>
+    Paper size: 
+    A4
+  </p>
+  <div
+    className="table-container"
+  >
+    <table>
+      <thead>
+        <tr>
+          <th>
+            Quantity
+          </th>
+          <th>
+            Day 1
+          </th>
+          <th>
+            Day 2
+          </th>
+          <th>
+            Day 3
+          </th>
+          <th>
+            Day 4
+          </th>
+          <th>
+            Day 5
+          </th>
+        </tr>
+      </thead>
+      <tbody
+        onMouseOut={[Function]}
+      >
+        <tr>
+          <th />
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+        </tr>
+        <tr>
+          <th />
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+        </tr>
+        <tr>
+          <th />
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+        </tr>
+        <tr>
+          <th />
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+        </tr>
+        <tr>
+          <th />
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div
+    className="row-button-see-more"
+  >
+    <button
+      onClick={[Function]}
+    >
+      See more
+    </button>
+  </div>
+  <div
+    className="error-text"
+  />
+</div>
+`;
+
+exports[`TablePrices table prices has error 1`] = `
+<div
+  className="table-prices"
+>
+  <h3>
+    Price table
+  </h3>
+  <p>
+    Paper size: 
+    A4
+  </p>
+  <div
+    className="table-container"
+  >
+    <table>
+      <thead>
+        <tr>
+          <th>
+            Quantity
+          </th>
+          <th>
+            Day 1
+          </th>
+          <th>
+            Day 2
+          </th>
+          <th>
+            Day 3
+          </th>
+          <th>
+            Day 4
+          </th>
+          <th>
+            Day 5
+          </th>
+        </tr>
+      </thead>
+      <tbody
+        onMouseOut={[Function]}
+      >
+        <tr>
+          <th />
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+        </tr>
+        <tr>
+          <th />
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+        </tr>
+        <tr>
+          <th />
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+        </tr>
+        <tr>
+          <th />
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+        </tr>
+        <tr>
+          <th />
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div
+    className="row-button-see-more"
+  >
+    <button
+      onClick={[Function]}
+    >
+      See more
+    </button>
+  </div>
+  <div
+    className="error-text"
+  >
+    error
+  </div>
+</div>
+`;
+
+exports[`TablePrices table prices has loading 1`] = `
+<div
+  className="table-prices"
+>
+  <h3>
+    Price table
+  </h3>
+  <p>
+    Paper size: 
+    A4
+  </p>
+  <div
+    className="table-container"
+  >
+    <table>
+      <thead>
+        <tr>
+          <th>
+            Quantity
+          </th>
+          <th>
+            Day 1
+          </th>
+          <th>
+            Day 2
+          </th>
+          <th>
+            Day 3
+          </th>
+          <th>
+            Day 4
+          </th>
+          <th>
+            Day 5
+          </th>
+        </tr>
+      </thead>
+      <tbody
+        onMouseOut={[Function]}
+      >
+        <tr>
+          <th />
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+        </tr>
+        <tr>
+          <th />
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+        </tr>
+        <tr>
+          <th />
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+        </tr>
+        <tr>
+          <th />
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+        </tr>
+        <tr>
+          <th />
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+          <td
+            className=""
+            onClick={[Function]}
+            onMouseOver={[Function]}
+          >
+            
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <div
+      className="table-spinner"
+    >
+      <div
+        className="spinner"
+      />
+    </div>
+  </div>
+  <div
+    className="row-button-see-more"
+  >
+    <button
+      onClick={[Function]}
+    >
+      See more
+    </button>
+  </div>
+  <div
+    className="error-text"
+  />
+</div>
+`;

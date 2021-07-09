@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cart render cart 1`] = `
+<div
+  className="row-cart"
+>
+  Order price:
+  <span
+    className="amount"
+  >
+    ¥ 1,000
+  </span>
+  <button>
+    Cart
+  </button>
+</div>
+`;

@@ -1,0 +1,29 @@
+table {
+  width: 100%;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+  min-width: 100px;
+  height: 30px;
+}
+
+td.weak {
+  background-color: #c5c6d0;
+}
+
+td.high-light {
+  background-color: #999999;
+}
+
+@media screen and (max-width: 768px) {
+  table,
+  th,
+  td {
+    min-width: unset;
+  }
+}

@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SelectPaperSize render select paper size 1`] = `
+<div
+  className="select-paper-size"
+>
+  <h3>
+    Select paper size
+  </h3>
+  <div>
+    <select
+      className="select"
+      onChange={[Function]}
+      value="A4"
+    >
+      <option
+        value="A4"
+      >
+        A4
+      </option>
+      <option
+        value="A5"
+      >
+        A5
+      </option>
+      <option
+        value="B4"
+      >
+        B4
+      </option>
+      <option
+        value="B5"
+      >
+        B5
+      </option>
+    </select>
+  </div>
+  <div
+    className="row-button-apply"
+  >
+    <button
+      onClick={[Function]}
+    >
+      Apply
+    </button>
+  </div>
+</div>
+`;

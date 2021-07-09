@@ -1,0 +1,30 @@
+.table-prices {
+  width: 100%;
+}
+
+.table-container {
+  position: relative;
+}
+
+.table-spinner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0.5;
+  background-color: #c5c6d0;
+}
+
+.row-button-see-more {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 15px;
+}
+
+.error-text {
+  color: red;
+}

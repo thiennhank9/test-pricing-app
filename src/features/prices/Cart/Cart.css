@@ -1,0 +1,11 @@
+.row-cart {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.amount {
+  min-width: 50px;
+  display: inline-block;
+  padding: 0 15px;
+}
