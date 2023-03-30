@@ -5,7 +5,7 @@ import "./App.css";
 function App() {
   return (
     <div className="app">
-      Test
+      Test Changes
       <Prices />
     </div>
   );
